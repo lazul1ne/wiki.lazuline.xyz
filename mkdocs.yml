@@ -1,4 +1,4 @@
-site_name: Lazuline's Project Wiki 
+site_name: Lazuline's Project Wiki (W.I.P)
 site_url: https://wiki.lazuline.xyz
 theme:
   name: material
@@ -11,6 +11,7 @@ theme:
     - toc.follow
     - navigation.top
     - search.suggest
+    #- navigation.footer
   palette: 
     # Palette toggle for light mode
     - scheme: default
@@ -28,4 +29,10 @@ theme:
 plugins:
   - search
   - tags
-
+  - git-revision-date-localized:
+      enable_creation_date: false
+  #- git-committers:
+  #    repository: lazul1ne/wiki.lazuline.xyz
+  #    branch: main
+repo_url: https://github.com/lazul1ne/wiki.lazuline.xyz
+repo_name: lazul1ne/wiki.lazuline.xyz
