@@ -8,7 +8,7 @@ description: will be updated/fixed soon
 
 Originally Created by Jaydaaat#8626 | Edited by Lazul1ne and toffee.
 
-[Official Discord!](http://discord.gg/7uC27yjMaS)
+[Official Discord!](https://discord.lazuline.xyz)
 
 ### No Impact <a href="#id-96nxdupz31iz" id="id-96nxdupz31iz"></a>
 
