@@ -36,3 +36,7 @@ plugins:
   #    branch: main
 repo_url: https://github.com/lazul1ne/wiki.lazuline.xyz
 repo_name: lazul1ne/wiki.lazuline.xyz
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
