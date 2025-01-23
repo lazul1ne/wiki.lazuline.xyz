@@ -1,2 +1,2 @@
 # My current mods!
-### [Enhanced Turtle Items](eti.md)
+### [Enhanced Turtle Items](enhanced_turtle_items/index.md)

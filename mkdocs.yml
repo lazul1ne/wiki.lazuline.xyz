@@ -30,7 +30,7 @@ plugins:
   - search
   - tags
   - git-revision-date-localized:
-      enable_creation_date: false
+      enable_creation_date: true
   #- git-committers:
   #    repository: lazul1ne/wiki.lazuline.xyz
   #    branch: main
