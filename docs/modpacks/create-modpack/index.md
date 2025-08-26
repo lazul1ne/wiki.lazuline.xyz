@@ -6,6 +6,6 @@ tags:
 # Is this even Create anymore?
 
 ### Modpack Summary (placeholder)
-#### A 1.20.1 create modpack with an extreme amount of create
+#### A 1.20.1 minecraft modpack with a focus on a large amount of create mods and quests.
 
-### [placeholder](beta-0.8/index.md)
+### [Latest Version](beta-0.9.x/index.md)

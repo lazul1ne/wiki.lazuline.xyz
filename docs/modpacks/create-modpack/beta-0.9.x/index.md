@@ -3,6 +3,6 @@
 #### [Download latest 0.9.x version here](beta-0.9.0/index.md)
 
 ## Version List
-#### [Download version 0.9.0 here](beta-0.9.0/index.md)
+#### [0.9.0](beta-0.9.0/index.md)
 
 
